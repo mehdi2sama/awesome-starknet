@@ -14,6 +14,7 @@
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
+    <a href="http://makeapullrequest.com
   </p>
 
   <p align="center" style="color: red;">This list is archived and based on Cairo 0. You might want to read the new maintained <a href="README.md">Cairo 1 Awesome Starknet</a>.</p>
